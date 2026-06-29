@@ -1,0 +1,7 @@
+cooking_method,appliance_type,pm25_mg_per_min,pm10_mg_per_min,no2_mg_per_min_min,no2_mg_per_min_max
+frying,gas,300,309.2783505154639,20,60
+frying,electric,150,154.63917525773195,1,2
+grilling,gas,500,537.6344086021505,15,50
+grilling,electric,250,268.81720430107526,1,2
+boiling,electric,50,58.82352941176471,1,2
+oven,gas,40,47.05882352941177,10,40
